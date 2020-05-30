@@ -1,2 +1,0 @@
-_G.textused = "  —   O"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Diamondlt2/Diamondlt2/master/OBfuscated2", true))()
